@@ -67,6 +67,3 @@ Mix de Produtos
 
 Participação de receita por bebida
 
-Margens (se existirem custos)
-
-Ranking das bebidas mais rentáveis
